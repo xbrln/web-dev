@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
 ## [Unreleased]
+### Added
+- Build a small yet complete web application.
+- Practice REPL-Driven Development on our web application.
+- Understand how servers, adapters, handlers, requests, and responses work.
+
+
+
+<!-- ## [Unreleased]
 ### Changed
 - Add a new arity to `make-widget-async` to provide a different widget shape.
 
@@ -21,4 +29,4 @@ All notable changes to this project will be documented in this file. This change
 - Widget maker public API - `make-widget-sync`.
 
 [Unreleased]: https://sourcehost.site/your-name/web-dev/compare/0.1.1...HEAD
-[0.1.1]: https://sourcehost.site/your-name/web-dev/compare/0.1.0...0.1.1
+[0.1.1]: https://sourcehost.site/your-name/web-dev/compare/0.1.0...0.1.1 -->
