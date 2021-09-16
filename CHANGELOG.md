@@ -1,11 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
-## [Unreleased]
+## 0.1.0 - 2021-09-16
 ### Added
 - Build a small yet complete web application.
 - Practice REPL-Driven Development on our web application.
 - Understand how servers, adapters, handlers, requests, and responses work.
+- Use ring and compojure
 
 
 
